@@ -10,4 +10,4 @@ Historical Trader Data from Hyperliquid
 Columns include: account, symbol, execution price, size, side, time,start position, event, closedPnL, leverage
 
 ## Business Objective
-To explore the relationship between trader performance and market sentiment, uncover hidden patterns, and deliver insights that can drive smarter tradingS strategies
+To explore the relationship between trader performance and market sentiment, uncover hidden patterns, and deliver insights that can drive smarter trading strategies.
